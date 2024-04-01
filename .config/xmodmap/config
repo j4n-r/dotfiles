@@ -1,0 +1,8 @@
+clear Lock
+keycode 66 = Mode_switch
+keysym a = a A adiaeresis Adiaeresis
+keysym o = o O odiaeresis Odiaeresis
+keysym u = u U udiaeresis Udiaeresis
+keysym s = s S ssharp
+keysym q = q Q at at
+
